@@ -1,0 +1,90 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nome": "João",
+      "fones": [
+        "9999-2222",
+        "9999-3333"
+      ],
+      "documento": "123.456.789-00",
+      "tipo": "F",
+      "email": "joao@uol.com.br",
+      "categoria": "Premium"
+    },
+    {
+      "id": 2,
+      "nome": "Maria",
+      "fones": [
+        "9999-2222",
+        "9999-3333"
+      ],
+      "documento": "123.456.987-00",
+      "tipo": "F",
+      "email": "maria@uol.com.br",
+      "categoria": "Prospect"
+    },
+    {
+      "nome": "1111",
+      "documento": "222222",
+      "email": "333@333",
+      "fones": [
+        "5555",
+        "4444"
+      ],
+      "tipo": "F",
+      "categoria": "Prospect",
+      "id": 3
+    },
+    {
+      "nome": "mais um",
+      "documento": "222222",
+      "email": "333@333",
+      "fones": [
+        "5555",
+        "4444"
+      ],
+      "tipo": "F",
+      "categoria": "Prospect",
+      "id": 4
+    },
+    {
+      "nome": "Jean ",
+      "documento": "1231321",
+      "email": "jean.lopes@ulife.com.br",
+      "fones": [
+        "565012313"
+      ],
+      "tipo": "F",
+      "categoria": "Prospect",
+      "id": 5
+    },
+    {
+      "nome": "sdsdfsdfsdf",
+      "documento": "sdfsdf",
+      "email": "sdf",
+      "fones": [
+        "sdfsdf",
+        "sdfsdf"
+      ],
+      "tipo": "F",
+      "categoria": "Prospect",
+      "id": 6
+    },
+    {
+      "nome": "",
+      "documento": "",
+      "email": "",
+      "fones": [],
+      "tipo": "F",
+      "categoria": "Prospect",
+      "id": 7
+    }
+  ],
+  "categorias": [
+    "Prospect",
+    "Comum",
+    "Premium",
+    "Pica da Galaxias"
+  ]
+}
